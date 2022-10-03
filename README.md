@@ -1,6 +1,6 @@
 ## Olá eu sou o Rafael Heros de Almeida, dev front-end e desenvolvedor XR!
 
-Sou formado em engenharia mecânica, mas por profissão escolhi a carreira de desenvolvedor. Estou focado em dev front-end com ReactJS e React Native, mas tenho muita experiência em desenvolvimento de AR tanto para apps nativos com Unity3D quanto para web usando Javascript.
+Sou formado em engenharia mecânica, mas por profissão escolhi a carreira de desenvolvedor. Estou focado em dev front-end com ReactJS e React Native, mas tenho muita experiência em desenvolvimento de AR tanto para apps nativos com Unity3D quanto para web usando Javascript. Estou aprendendo Node.js e em breve quero me tornar full-stack.
 
 Gosto de video games, quadrinhos, animes e de e-sports.
 
