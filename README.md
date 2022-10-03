@@ -1,5 +1,11 @@
 ## Olá eu sou o Rafael Heros de Almeida, dev front-end e desenvolvedor XR!
 
+Sou formado em engenharia mecânica, mas por profissão escolhi a carreira de desenvolvedor. Estou focado em dev front-end com ReactJS e React Native, mas tenho muita experiência em desenvolvimento de AR tanto para apps nativos com Unity3D quanto para web usando Javascript.
+
+Gosto de video games, quadrinhos, animes e de e-sports.
+
+**Sempre aprendendo e evoluindo**
+
 <div align="center">
   <a href="https://github.com/rafelis1997">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafelis1997&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
