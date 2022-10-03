@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael H de Almeida, dev front-end e desenvolvedor XR!
+## Olá eu sou o Rafael H de Almeida, dev front-end e desenvolvedor XR!
 
 <div align="center">
   <a href="https://github.com/rafelis1997">
