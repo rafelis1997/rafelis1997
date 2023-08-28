@@ -1,10 +1,12 @@
 ## Olá eu sou o Rafael Heros de Almeida, dev front-end e desenvolvedor XR!
+## Hello my name is Rafael Heros de Almeida, dev fullstack!
 
-Sou formado em engenharia mecânica, mas por profissão escolhi a carreira de desenvolvedor. Estou focado em dev front-end com ReactJS e React Native, mas tenho muita experiência em desenvolvimento de AR tanto para apps nativos com Unity3D quanto para web usando Javascript. Estou aprendendo Node.js e em breve quero me tornar full-stack.
+I am a Mechanical Engineer by education and a full-stack developer by profession. I have experience in developing web applications and mobile apps. My main work is with Next.js and SPAs with global state management and documented design systems, focused on good SEO and accessibility. Also i'm specialist on back-end solutions with Node.js using best practices like SOLID, DDD and testable applications.
 
 Gosto de video games, quadrinhos, animes e de e-sports.
+Also I love video games, HQ's, animes and e-sports.
 
-**Sempre aprendendo e evoluindo**
+**Always learning and evolving**
 
 <div align="center">
   <a href="https://github.com/rafelis1997">
