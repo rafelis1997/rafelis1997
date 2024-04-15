@@ -1,6 +1,6 @@
 ## Hello my name is Rafael Heros de Almeida, dev fullstack!
 
-I am a Mechanical Engineer by education and a full-stack developer by profession. I have experience in developing web applications and mobile apps. My main work is with Next.js and SPAs with global state management and documented design systems, focused on good SEO and accessibility. Also i'm specialist on back-end solutions with Node.js using best practices like SOLID, DDD and testable applications.
+I am a full-stack developer studing to be a full cycle professional specialist in frontend. I have experience in developing web applications and mobile apps. My main work is with Next.js and SPAs with global state management and documented design systems, focused on good SEO and accessibility. Also i'm specialist on back-end solutions with Node.js using best practices like SOLID, DDD and testable applications.
 
 Also I love video games, HQ's, animes and e-sports.
 
