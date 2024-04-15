@@ -2,7 +2,6 @@
 
 I am a Mechanical Engineer by education and a full-stack developer by profession. I have experience in developing web applications and mobile apps. My main work is with Next.js and SPAs with global state management and documented design systems, focused on good SEO and accessibility. Also i'm specialist on back-end solutions with Node.js using best practices like SOLID, DDD and testable applications.
 
-Gosto de video games, quadrinhos, animes e de e-sports.
 Also I love video games, HQ's, animes and e-sports.
 
 **Always learning and evolving**
