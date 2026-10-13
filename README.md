@@ -1,4 +1,4 @@
-## Hello my name is Rafael Heros de Almeida, dev fullstack!
+## Hello my name is Raf, dev fullstack!
 
 I am a full-stack developer studing to be a full cycle professional specialist in frontend. I have experience in developing web applications and mobile apps. My main work is with Next.js and SPAs with global state management and documented design systems, focused on good SEO and accessibility. Also i'm specialist on back-end solutions with Node.js using best practices like SOLID, DDD and testable applications.
 
@@ -24,11 +24,7 @@ Also I love video games, HQ's, animes and e-sports.
   ##
 
  
-<div> 
-  <a href="https://instagram.com/rafheros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafaelheros80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-heros-almeida-4bbb2915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 	<a href="https://www.fiverr.com/rafelis" target="_blank"><img src="https://img.shields.io/badge/Fiverr-9146FF?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
+<div>
   
  
   ![Snake animation](https://github.com/rafelis1997/rafelis1997/blob/output/github-contribution-grid-snake.svg)
